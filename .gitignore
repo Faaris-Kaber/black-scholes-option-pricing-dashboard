@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+.claude/
+.codex/
+*.log
+artifacts/
