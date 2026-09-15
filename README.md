@@ -2,6 +2,16 @@
 
 A simple Streamlit app for pricing European call and put options. It also shows how changes in spot price and volatility affect option value and the profit or loss on a position.
 
+## Examples
+
+### Option value
+
+![Option value heat maps](https://github.com/Faaris-Kaber/black-scholes-option-pricing-dashboard/releases/download/screenshots-v1/option-value-example.png)
+
+### Position P&L and break-even
+
+![Position P&L heat maps with break-even lines](https://github.com/Faaris-Kaber/black-scholes-option-pricing-dashboard/releases/download/screenshots-v1/pnl-break-even-example.png)
+
 ## Run it locally
 
 You need Python 3.11 or newer.
